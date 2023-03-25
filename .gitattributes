@@ -1,0 +1,1 @@
+pihole-blocklist filter=lfs diff=lfs merge=lfs -text
